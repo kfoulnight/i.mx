@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "core_ca7.h": "c",
+        "interrupt.h": "c",
+        "led.h": "c",
+        "mcimx6y2.h": "c"
+    }
+}
